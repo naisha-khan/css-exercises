@@ -1,1 +1,9 @@
-
+/* styles.css */
+div
+{
+  colour: white;
+  background-colour:red;
+  font-size: 32px;
+  text-align: center;
+  font-weight: 700;
+}
